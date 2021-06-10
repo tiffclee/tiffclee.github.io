@@ -13,5 +13,5 @@ title: Home
 		but i'm interested in photography, design, and art! i've also done a bit of 3d printing and calligraphy.</p>
 		<a href="/hobbies">hobbbbbbies</a>
 	</div>
-	<div class="intropic"><img class="me" src="/assets/images/me.jpg" alt="me!"></div>
+	<div class="intropic"><img class="me" src="/assets/images/me.png" alt="me!"></div>
 </div>
