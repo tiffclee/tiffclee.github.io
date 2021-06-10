@@ -1,0 +1,57 @@
+[
+	{
+		"name": "drinking coffee",
+		"link": "pic1.jpg",
+		"description": ""
+	},
+	{
+		"name": "strings",
+		"link": "jenniferstring.jpg",
+		"description": ""
+	},
+	{
+		"name": "resting",
+		"link": "sasha.jpg",
+		"description": ""
+	},
+	{
+		"name": "nature",
+		"link": "pic2.jpg",
+		"description": ""
+	},
+	{
+		"name": "peace",
+		"link": "pic5.jpg",
+		"description": ""
+	},
+	{
+		"name": "happiness",
+		"link": "pic6.jpg",
+		"description": ""
+	},
+	{
+		"name": "outside",
+		"link": "jenniferoutside.jpg",
+		"description": ""
+	},
+	{
+		"name": "ice cream",
+		"link": "pic3.jpg",
+		"description": ""
+	},
+	{
+		"name": "doggo",
+		"link": "kaiser.jpg",
+		"description": ""
+	},
+	{
+		"name": "san francisco",
+		"link": "pic4.jpg",
+		"description": ""
+	},
+	{
+		"name": "a view outside",
+		"link": "jenniferwindow.jpg",
+		"description": ""
+	},
+]

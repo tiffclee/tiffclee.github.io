@@ -1,0 +1,82 @@
+[
+	{
+		"name": "cs 32: intro to data structures",
+		"tech": "C++",
+		"topics": "Objected Oriented Programming, Data Abstraction, Inheritance, Polymorphism, Sorting, Recursion, Big O",
+	},
+	{
+		"name": "cs 33: intro to computer architecture",
+		"tech": "C",
+		"topics": "Assembly Languages, Procedure Calls, Stacks, Interrupts and Traps, Assemblers, Process Management",
+	},
+	{
+		"name": "cs 35l: software construction laboratory",
+		"tech": "Unix, Emacs, Python, Github, Makefile",
+		"topics": "Unix, Emacs, Scripting, Fauls, Fails, Makefiles",
+	},
+	{
+		"name": "cs m51a: logic design of digital systems",
+		"tech": "Verilog",
+		"topics": "boolean algebra, combinational logic design, sequential logic design",
+	},
+	{
+		"name": "cs 88s: human centered design",
+		"tech": "Figma",
+		"topics": "product design principles, design choices, interfaces, mockups and wireframes",
+	},
+	{
+		"name": "cs 111: operating systems",
+		"tech": "C, C++",
+		"topics": "OS layers, proceses, scheduling, memory management, multithreading, interprocess communication, I/O architecture, OS Security, semaphores",
+	},
+	{
+		"name": "cs 118: computer networks",
+		"tech": "C++",
+		"topics": "",
+	},
+	{
+		"name": "cs 131: programming languages",
+		"tech": "OCaml, Java, Prolog, Scheme, Python",
+		"topics": "functional programming, logic programming, syntax and semantics, type systems, runtime systems",
+	},
+	{
+		"name": "cs 143: database systems",
+		"tech": "SQL, MongoDB, Apache Spark",
+		"topics": "relational algebra, SQL, entity relationship model, relational design theory, query execution, NoSQL database",
+	},
+	{
+		"name": "cs 144: web applications",
+		"tech": "Docker, SQL, JDK, Apache Tomcat, MEAN (MongoDB, Express, Angular, Node.js), Locust",
+		"topics": "core web standards, web programming paradigms, website architecture, website scalability",
+	},
+	{
+		"name": "cs m148: data science",
+		"tech": "Python",
+		"topics": "",
+	},
+	{
+		"name": "cs m151b: computer architecture",
+		"tech": "MIPS",
+		"topics": "",
+	},
+	{
+		"name": "cs 161: artificial intelligence",
+		"tech": "Lisp",
+		"topics": "",
+	},
+	{
+		"name": "cs 180: algorithms and complexity",
+		"tech": "n/a",
+		"topics": "",
+	},
+	{
+		"name": "cs 181: automata theory and formal languages",
+		"tech": "n/a",
+		"topics": "",
+	},
+	{
+		"name": "e 96c: internet of things",
+		"tech": "C, IoT",
+		"topics": "Hands on project with IoT applications and technology",
+	},
+]

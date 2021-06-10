@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Activision Internship",
+		"tech": "tbd",
+		"description": "Network Engineer Intern for High Moon Studios",
+		"from": "June 2021",
+		"to": "September 2021",
+		"link": "highmoonstudios.png"
+	},
+	{
+		"name": "Datadog",
+		"tech": "tbd",
+		"description": "Software Engineer Intern",
+		"from": "September 2021",
+		"to": "December 2021",
+		"link": "datadog.png"
+	},
+	{
+		"name": "UCLA Slack Full Stack",
+		"tech": "Python, HTML/CSS, REST API, Postman",
+		"description": "Worked for UCLA on Slack integration",
+		"from": "June 2021",
+		"to": "Present",
+		"link": "uclaslack.png"
+	},
+	{
+		"name": "UCLA ACM Design Portal Site",
+		"tech": "HTML/CSS, Eleventy",
+		"description": "Coded the projects and events tab from scratch",
+		"from": "May 2021",
+		"to": "Present",
+		"link": "acmdesign.png"
+	}
+]

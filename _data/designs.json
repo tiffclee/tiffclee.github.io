@@ -1,0 +1,32 @@
+[
+	{
+		"name": "ACM Hack Kitchen",
+		"link": "hackkitchen.png",
+		"description": "This was completed for ACM Hack's Hack Kitchen event.<br> I worked on Figma with Michael Shi, who is also part of ACM Design.",
+	},
+	{
+		"name": "Computer Science Town Hall",
+		"link": "cstownhall.png",
+		"description": "This was completed for UCLA's Computer Science Town Hall event.<br> I worked on Figma with Michael Shi, who is also part of ACM Design.",
+	},
+	{
+		"name": "ICPC Project AI Workshop Series",
+		"link": "icpcprojecta.png",
+		"description": "This was completed for ACM ICPC's Project A* Workshop Series.<br> This work was designed myself and ACM Design members gave me feedback.",
+	},
+	{
+		"name": "ACM Discord",
+		"link": "acmdiscordgraphic.png",
+		"description": "This was completed to promote ACM at UCLA's Discord.<br> This iteration was taken out, but I like the simplicity of it.",
+	},
+	{
+		"name": "3D4E Recruitment",
+		"link": "3d4egraphic.png",
+		"description": "This was created for 3D4E at UCLA for club recruitment in the fall.<br> All designed and created by me in Figma.",
+	},
+	{
+		"name": "ACM Discord Comparison",
+		"link": "acmdiscord.png",
+		"description": "Both ACM Discord banners were created by me. <br>The left side is the old styleguide and the right side is the new ACM styleguide branding.",
+	},
+]
