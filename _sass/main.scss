@@ -25,10 +25,7 @@ h1 {
 		color: white;
 	}
 	a:hover {
-		background-color: white;
-		color: #7290FA;
-		border: solid;
-		padding: 16px 36px;
+		background-color: #3D5BF6;
 	}
 }
 
@@ -114,6 +111,58 @@ footer {
 .projectimage {
 	width: 300px;
 	border-radius: 10px;
+}
+
+.courseworkcard {
+	border-radius: 10px;
+	background-color: #9AE7CF;
+	text-align: center;
+	position: relative;
+}
+
+.cardinfo {
+	padding: 10px;
+	display: none;
+}
+
+.cardname {
+	padding: 10px 20px 0px 20px;
+}
+
+.collapse {
+	display: none;
+}
+
+.cardbutton {
+	border: none;
+	font-size: 20px;
+	margin: 0 auto;
+	background: transparent;
+	color: #535353;
+	font-style: bold;
+}
+
+.cardbutton:hover {
+	cursor: pointer;
+	color: white;
+}
+
+#allbutton {
+	grid-column: 10 / span 3;
+	display: inline-block;
+	padding: 20px 40px;
+	background-color: #7290FA;
+	text-decoration: none;
+	font-size: 20px;
+	border-radius: 10px;
+	color: white;
+	border: none;
+	font-size: 16px;
+}
+
+#allbutton:hover {
+	cursor: pointer;
+	background-color: #3D5BF6;
 }
 
 .section {
